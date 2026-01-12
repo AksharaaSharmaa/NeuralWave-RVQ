@@ -61,7 +61,7 @@ The pipeline consists of three main stages:
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/NeuralWave-RVQ.git
+git clone https://github.com/AksharaaSharmaa/NeuralWave-RVQ.git
 cd NeuralWave-RVQ
 ```
 
